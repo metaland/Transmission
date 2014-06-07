@@ -1,5 +1,5 @@
 Transmission
 ============
 
-Transmission Auto Script Centos 6
+Transmission Auto Script Centos 6 &
 Tansmission Auto Script Debian 7
